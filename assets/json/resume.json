@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Chuu Nyan",
+    "label": "Bachelor of Science in Neuroscience",
+    "image": "assets/img/chuu_pic.png",
+    "email": "chuu.nyan@utexas.edu",
+    "phone": "(512) 699-6733",
+    "url": "https://chuu-n.github.io/",
+    "summary": "I am an international student from Myanmar(Burma) living in Austin, Texas. I graduated from the University of Texas at Austin with a B.S. in Neuroscience. I'm interested in children development and how society contributes to critical development stages influencing their education, cognitive, and behavioral outcomes.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Austin",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Chuu Nyan",
+        "url": "www.linkedin.com/in/chuu-nyan"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": Memory & Aging Lab, The University of Texas at Austin",
+      "position": " Research Associate (Lab manager)",
+      "url": "",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Development, lifespan, cognitive development"]
     }
   ],
   "volunteer": [
