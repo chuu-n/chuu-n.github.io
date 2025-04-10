@@ -2,7 +2,7 @@
   "basics": {
     "name": "Chuu Nyan",
     "label": "Bachelor of Science in Neuroscience",
-    "image": "assets/img/chuu_pic.png",
+    "image": "assets/img/prof_pic.jpg",
     "email": "chuu.nyan@utexas.edu",
     "phone": "(512) 699-6733",
     "url": "https://chuu-n.github.io/",
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": Memory & Aging Lab, The University of Texas at Austin",
+      "name": "Memory & Aging Lab, The University of Texas at Austin",
       "position": " Research Associate (Lab manager)",
       "url": "",
       "startDate": "2022-08",
