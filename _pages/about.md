@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Research Associate at The Memory and Aging Lab & The Developmental Cognitive Neuroscience Lab.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> Associate of Science in Biology; Bachelor of Science in Neuroscience
     <p>The University of Texas at Austin, Department of Psychology</p>
     <p>108 Dean Keeton Stop A800</p>
     <p>Austin, Texas 78702</p>
