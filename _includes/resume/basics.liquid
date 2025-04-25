@@ -1,4 +1,4 @@
-{%- assign image_url = nil -%}
+{%- assign image_url = null -%}
 {%- for content in data[1] -%}
   {%- if content[0] == 'image' -%}
     {%- assign image_url = content[1] -%}
@@ -16,7 +16,7 @@
     <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
       {% assign skip_basics = 'image,profiles,location' | split: ',' %}
       {% for content in data[1] %}
-        {% if content[1] == "" or skip_basics contains content[0] %}
+        {% if content[1] == '' or skip_basics contains content[0] %}
           {% continue %}
         {% endif %}
 
