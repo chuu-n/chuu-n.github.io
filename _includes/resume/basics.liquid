@@ -1,22 +1,9 @@
-{%- assign image_url = null -%}
-{%- for content in data[1] -%}
-  {%- if content[0] == 'image' -%}
-    {%- assign image_url = content[1] -%}
-  {%- endif -%}
-{%- endfor -%}
-
-<div class="d-flex align-items-start mb-4">
-  {% if image_url %}
-    <div class="mr-4">
-      <img src="{{ image_url }}" alt="Profile Image" class="img-fluid rounded-circle" style="max-width: 150px;">
-    </div>
-  {% endif %}
-
-  <div class="flex-fill">
+<div class="d-flex align-items-start justify-content-between mb-4 flex-wrap">
+  <div class="flex-fill mr-4">
     <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
       {% assign skip_basics = 'image,profiles,location' | split: ',' %}
       {% for content in data[1] %}
-        {% if content[1] == '' or skip_basics contains content[0] %}
+        {% if content[1] == "" or skip_basics contains content[0] %}
           {% continue %}
         {% endif %}
 
@@ -39,4 +26,12 @@
       {% endfor %}
     </table>
   </div>
+
+  {% for content in data[1] %}
+    {% if content[0] == 'image' and content[1] != "" %}
+      <div class="ml-4 mb-3">
+        <img src="{{ content[1] }}" alt="Profile Image" class="img-fluid rounded-circle" style="max-width: 150px;">
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
