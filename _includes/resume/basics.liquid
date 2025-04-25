@@ -3,7 +3,7 @@
     <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
       {% assign skip_basics = 'image,profiles,location' | split: ',' %}
       {% for content in data[1] %}
-        {% if content[1] == "" or skip_basics contains content[0] %}
+        {% if content[1] == '' or skip_basics contains content[0] %}
           {% continue %}
         {% endif %}
 
@@ -28,7 +28,7 @@
   </div>
 
   {% for content in data[1] %}
-    {% if content[0] == 'image' and content[1] != "" %}
+    {% if content[0] == 'image' and content[1] != '' %}
       <div class="ml-4 mb-3">
         <img src="{{ content[1] }}" alt="Profile Image" class="img-fluid rounded-circle" style="max-width: 150px;">
       </div>
