@@ -19,7 +19,7 @@
 
     <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
       {% for content in data[1] %}
-        {% if content[1] == "" or skip_basics contains content[0] or content[0] == 'image' %}
+        {% if content[1] == '' or skip_basics contains content[0] or content[0] == 'image' %}
           {% continue %}
         {% endif %}
         <tr>
@@ -42,4 +42,3 @@
     </table>
   </div>
 </div>
-
