@@ -2,7 +2,7 @@
   "basics": {
     "name": "Chuu Nyan",
     "label": "Bachelor of Science in Neuroscience",
-    "image": "assets/img/prof_pic.jpg",
+    "image": "/assets/img/prof_pic.jpg",
     "email": "chuu.nyan@utexas.edu",
     "phone": "(512) 699-6733",
     "url": "https://chuu-n.github.io/",
