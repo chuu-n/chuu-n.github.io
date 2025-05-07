@@ -643,9 +643,10 @@ jsonresume:
   - awards
   - certificates
   - research
+  - talks
+  - posters
   - work
   - volunteer
-  - presentations
   - skills
   - languages
   - interests
