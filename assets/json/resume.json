@@ -75,7 +75,7 @@
       "position": "Research Associate (Lab manager)",
       "url": "https://labs.la.utexas.edu/church-lang/",
       "startDate": "2023-06",
-      "endDate": "Present",
+      "endDate": "2025-07",
       "summary": "I oversee participant recruitment, IRB protocols, and data management using the REDCap database. I conduct behavioral and fMRI data collection sessions using PsychoPy and am certified to operate Siemens 3T Vida MRI scanners. I also train and supervise undergraduate research assistants in behavioral testing, data scoring, and entry. My responsibilities include administering a range of cognitive assessments, analyzing summer activity data in RStudio, and contributing to science communication, most recently presenting our work at the 2024 FLUX Conference in Baltimore.",
       "highlights": ["Development, Control, Executive Functioning, Cognitive Development"]
     },
@@ -85,7 +85,7 @@
       "position": "Research Associate",
       "url": "https://duartelab.la.utexas.edu/",
       "startDate": "2022-08",
-      "endDate": "Present",
+      "endDate": "2026-07",
       "summary": "In the Duarte lab, I worked on a project examining the relationship between sleep variability and episodic memory consolidation across the adult lifespan. I assisted in collecting EEG and fMRI data from participants aged 18 to 80 and administered behavioral assessments, including the Trail Making Test (TMT), Digit Span Memory Test, and California Verbal Learning Test (CVLT). I conducted principal component analysis in RStudio using sleep data gathered from wearable monitors and EEG data, which was preprocessed using EEGLAB in MATLAB. Through linear regression analyses, I explored how sleep variability relates to age and memory reconstruction. I presented this work at the SLEEP 2024 Conference in Houston and the Cognitive Neuroscience Society Conference in Boston, and I am currently preparing the manuscript for journal publication.",
       "highlights": ["Aging, Memory, Executive Functioning, Cognitive Development"]
     },
