@@ -136,18 +136,27 @@
       "summary": "Oversaw the resolution of behavioral data inconsistencies within both RedCap and Airtable as one of the lead research assistants. Developed and implemented comprehensive protocols to streamline research operations, including updating Airtable databases, organizing daily shifts for research assistants (RAs), and monitoring the progress of training activities. Managed recruitment efforts and assigned tasks to ensure smooth project execution and data integrity."
     }
   ],
-  "poster presentations": [
+  "posters": [
     {
-      "name": "Exploring the interplay between family socioeconomic status, children’s summer activities, and executive functions.",
-      "event":
-      "location": "Developmental Psychology Area Meeting, The University of Texas at Austin",
-      "releaseDate": "2024-08"
+      "name": "Sleep efficiency during the retention period predicts episodic memory reconstruction across young and old adults.",
+      "event": "Cognitive Neuroscience Society Conference",
+      "url": "https://www.cogneurosociety.org/documents/CNS_2025_Abstract_Book.pdf",
+      "location": "Boston, MA",
+      "startDate": "2025-04"
     },
     {
-      "name": "Individual differences in habitual sleep and its influence on episodic memory consolidation and neural mechanism supporting successful memory retrieval.",
-      "event": "Research Flash Talk at The Texas Aging & Longevity Consortium at the University of Texas at Austin",
-      "location": "Austin, Texas",
-      "releaseDate": "2024-02"
+      "name": "Exploring the interplay between family socioeconomic status, children’s summer activities, and executive functions.",
+      "event": "FLUX Society",
+      "url": "https://pmg.joynadmin.org/documents/1093/66e356347e9eb7544b2adf53.pdf",
+      "location": "Baltimore, MD",
+      "startDate": "2024-09"
+    },
+    {
+      "name": "Individual differences in habitual sleep discontinuity predict memory consolidation and supporting neural activity.",
+      "event": "Sleep Conference",
+      "url": "https://www.sleepmeeting.org/wp-content/uploads/2024/04/sleep-apss-annual-meeting-abstracts-2024.pdf",
+      "location": "Houston, Texas",
+      "startDate": "2024-06"
     }
   ],
     "talks": [
