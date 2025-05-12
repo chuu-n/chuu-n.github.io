@@ -20,7 +20,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 **Affiliations:** Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
