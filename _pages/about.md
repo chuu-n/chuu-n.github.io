@@ -22,9 +22,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-## Affiliations
 
-Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
+**Affiliations:** Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
 
 **About Me**  
 I moved to the United States from [Myanmar](https://chuu-n.github.io/blog/) at 17 without a clear idea of what I wanted to do or where life would take me. Now, at 25, I’ve earned an Associate of Science in Biology from Austin Community College and a Bachelor of Science in Neuroscience from The University of Texas at Austin. Over the past eight years, one of the most meaningful outcomes of my journey has been discovering a strong interest in research and a commitment to serving my community.
