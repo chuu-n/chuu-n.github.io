@@ -33,9 +33,9 @@ I moved to the United States from [Myanmar](https://chuu-n.github.io/blog/) at 1
 
 I created this website to share my academic work and career goals, while also providing a space that reflects my cultural background. My goals with this site are to:
 
-- Share resources with the Myanmar community living in the United States  
-- Raise awareness of the challenges faced by people in Myanmar  
-- Encourage others in my community to support one another  
+- Share resources with the Myanmar community living in the United States
+- Raise awareness of the challenges faced by people in Myanmar
+- Encourage others in my community to support one another
 
 **Who I Am**  
 I grew up in Burma, where topics like education, mental health, and well-being are often overlooked. These early experiences have shaped my interest in understanding not just individual cognitive development, but also the broader social and environmental factors that influence it.
