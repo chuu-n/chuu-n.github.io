@@ -30,7 +30,7 @@ I moved to the United States from [Myanmar](https://chuu-n.github.io/blog/) at 1
 I created this website to share my academic work and career goals, while also providing a space that reflects my cultural background. My goals with this site are to:
 
 - Share resources with the Myanmar community living in the United States
-- Raise awareness of the challenges faced by people in Myanmar
+- Raise awareness of the challenges faced by Myanmar people
 - Encourage others in my community to support one another
 
 **Who I Am**  
