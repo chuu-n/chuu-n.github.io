@@ -2,17 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Associate at The Memory and Aging Lab & The Developmental Cognitive Neuroscience Lab.
+subtitle: <a href='#'>Affiliations</a>. Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p> Associate of Science in Biology; Bachelor of Science in Neuroscience
-    <p>The University of Texas at Austin, Department of Psychology</p>
-    <p>108 Dean Keeton Stop A800</p>
-    <p>Austin, Texas 78702</p>
+  image_circular: true # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -40,6 +35,6 @@ I created this website to share my academic work and career goals, while also pr
 **Who I Am**  
 I grew up in Burma, where topics like education, mental health, and well-being are often overlooked. These early experiences have shaped my interest in understanding not just individual cognitive development, but also the broader social and environmental factors that influence it.
 
-I currently work as a research associate and lab manager in the Developmental Cognitive Neuroscience Lab and the Memory and Aging Lab at The University of Texas at Austin. My research focuses on executive function in children, memory in older adults, and how factors like sleep, socioeconomic status, and summer learning opportunities affect cognitive outcomes. I’m trained in various research methods, including fMRI, EEG, behavioral assessments, and wearable technologies. I’ve presented my work at national conferences such as FLUX, SLEEP, and the Cognitive Neuroscience Society.
+I currently work as a lab manager in the Developmental Cognitive Neuroscience Lab and a research associate at the Memory and Aging Lab at The University of Texas at Austin. My research focuses on executive function in children, memory in older adults, and how factors like sleep, socioeconomic status, and summer learning opportunities affect cognitive outcomes. I’m trained in various research methods, including fMRI, EEG, behavioral assessments, and wearable technologies. I’ve presented my work at national conferences such as FLUX, SLEEP, and the Cognitive Neuroscience Society.
 
 With a background in neuroscience and a growing interest in developmental science, I hope to contribute to research that helps reduce disparities in education and development—especially for children and families from underserved communities.
