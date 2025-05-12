@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
+---
+
+## Affiliations
+Research Associate at [The Memory and Aging Lab](https://duartelab.la.utexas.edu/) & [The Developmental Cognitive Neuroscience Lab](https://labs.la.utexas.edu/church-lang/) at The University of Texas at Austin, Department of Psychology.
 
 profile:
   align: right
