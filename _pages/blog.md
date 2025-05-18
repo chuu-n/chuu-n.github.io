@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Myanmar
 nav: true
 nav_order: 4
 pagination:
