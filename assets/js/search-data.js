@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/Myanmar/index.html";
           },
         },{id: "post-a-post-with-plotly-js",
         
