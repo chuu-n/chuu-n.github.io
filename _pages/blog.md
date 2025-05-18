@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /Myanmar/
 title: Myanmar
 nav: true
 nav_order: 4
