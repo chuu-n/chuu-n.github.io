@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Chuu's projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My work and personal projects over the last years.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, personal]
 horizontal: false
 ---
 
