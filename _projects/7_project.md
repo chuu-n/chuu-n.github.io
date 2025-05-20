@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: Summer Activity Project
 description: with background image
 img: assets/img/summer_activity.png
 importance: 1
