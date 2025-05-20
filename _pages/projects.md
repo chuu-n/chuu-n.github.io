@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chuu's projects
+title: projects
 permalink: /projects/
 description: a collection of my work and personal projects
 nav: true
