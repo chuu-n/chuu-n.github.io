@@ -199,6 +199,9 @@ exclude:
   - _projects/3_project.md
   - _projects/4_project.md
   - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
   - purgecss.config.js
   - README.md
   - readme_preview/
