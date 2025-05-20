@@ -2,7 +2,7 @@
 layout: page
 title: Chuu's projects
 permalink: /projects/
-description: My work and personal projects over the last years.
+description: a collection of my work and personal projects
 nav: true
 nav_order: 2
 display_categories: [work, personal]
