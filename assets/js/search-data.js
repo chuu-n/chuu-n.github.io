@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sleep-study",
           title: 'Sleep Study',
-          description: "with background image",
+          description: "This study explores how individual differences in sleep quality and age contribute to episodic memory retention and neural activity related to successful memory retrieval.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-summer-activity-project",
