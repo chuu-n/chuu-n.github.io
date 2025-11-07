@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Summer Activity Project
-description: with background image
+description: This study explores the relationship between Family Socioeconomic Status, Children's Summer Activity, and Executive Functions.
 img: assets/img/summer_activity.png
 importance: 1
 category: work
