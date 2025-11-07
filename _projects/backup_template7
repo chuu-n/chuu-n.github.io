@@ -1,30 +1,62 @@
 ---
 layout: page
-title: Sleep Study
-description: This study explores how individual differences in sleep quality and age contribute to episodic memory retention and neural activity related to successful memory retrieval.
-img: assets/img/sleep_study.png
+title: Summer Activity Project
+description: This study explores the relationship between Family Socioeconomic Status, Children's Summer Activity, and Executive Functions.
+img: assets/img/summer_activity.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-<!-- CNS 2025 Poster -->
+<!-- FLUX Society 2024 Poster -->
 <div class="row justify-content-center">
   <div class="col-sm-10 mt-4">
     <iframe 
-      src="{{ '/assets/pdf/CNS_2025_Nyan.pdf' | relative_url }}" 
+      src="{{ 'assets/pdf/Flux_2024_Nyan_Tqn.pdf' | relative_url }}" 
       width="100%" 
       height="700px"
       style="border: 1px solid #ddd; border-radius: 8px;">
     </iframe>
     <div class="caption text-center mt-2">
-      <p><strong>CNS 2025 Poster:</strong> Exploring how individual differences in sleep quality and age influence episodic memory retention and associated neural activity.</p>
+      <p><strong>CNS 2025 Poster:</strong> How do children from different socioeconomic statuses spend their summer break? How does this relate to their pre-summer executive function outcomes? </p>
     </div>
   </div>
 </div>
 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
