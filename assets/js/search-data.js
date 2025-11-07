@@ -412,11 +412,6 @@ ninja.data = [{
           description: "This study explores the relationship between Family Socioeconomic Status, Children&#39;s Summer Activity, and Executive Functions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-sleep-study",
-          title: 'Sleep Study',
-          description: "This study explores how individual differences in sleep quality and age contribute to episodic memory retention and neural activity related to successful memory retrieval.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/backup_template7/";
             },},{
         id: 'social-email',
         title: 'email',
