@@ -8,6 +8,21 @@ category: work
 related_publications: true
 ---
 
+<!-- FLUX Society 2024 Poster -->
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-4">
+    <iframe 
+      src="{{ 'assets/pdf/Flux_2024_Nyan_Tqn.pdf' | relative_url }}" 
+      width="100%" 
+      height="700px"
+      style="border: 1px solid #ddd; border-radius: 8px;">
+    </iframe>
+    <div class="caption text-center mt-2">
+      <p><strong>CNS 2025 Poster:</strong> How do children from different socioeconomic statuses spend their summer break? How does this relate to their pre-summer executive function outcomes? </p>
+    </div>
+  </div>
+</div>
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
