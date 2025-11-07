@@ -203,6 +203,8 @@ exclude:
   - _projects/6_project.md
   - _projects/8_project.md
   - _projects/9_project.md
+  - _projects/backup_template1
+  - _projects/backup_template7
   - purgecss.config.js
   - README.md
   - readme_preview/
