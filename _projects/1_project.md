@@ -8,6 +8,21 @@ category: work
 related_publications: true
 ---
 
+<!-- CNS 2025 Poster -->
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-4">
+    <iframe 
+      src="{{ '/assets/pdf/CNS_2025_Nyan.pdf' | relative_url }}" 
+      width="100%" 
+      height="700px"
+      style="border: 1px solid #ddd; border-radius: 8px;">
+    </iframe>
+    <div class="caption text-center mt-2">
+      <p><strong>CNS 2025 Poster:</strong> Exploring how individual differences in sleep quality and age influence episodic memory retention and associated neural activity.</p>
+    </div>
+  </div>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/pdf/CNS_2025_Nyan.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
