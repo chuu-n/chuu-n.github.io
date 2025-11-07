@@ -409,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-summer-activity-project",
           title: 'Summer Activity Project',
-          description: "with background image",
+          description: "This study explores the relationship between Family Socioeconomic Status, Children&#39;s Summer Activity, and Executive Functions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
