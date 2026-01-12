@@ -1,47 +1,62 @@
 <!doctype html>
-<html lang="{{ site.lang }}">
-  <!-- Head -->
+<html lang="{{ site.lang | default: 'en' }}">
   <head>
-    {% if page.redirect %}
-      {% if page.redirect == true %}
-        {% assign redirect = site.baseurl | append: '/' %}
-      {% elsif page.redirect contains '://' %}
-        {% assign redirect = page.redirect %}
-      {% else %}
-        {% assign redirect = page.redirect | relative_url %}
-      {% endif %}
-    {% endif %}
     {% include head.liquid %}
-    <meta name="google-site-verification" content="Gj6_3TYPvSEeSfaV2P0Mr9wD_zz1lU6CO8jqLe7uCAk">
-    <meta name="description" content="Personal website of Chuu — exploring cognitive development, neuroscience, and education research.">
-    <meta name="keywords" content="Chuu, neuroscience, cognitive development, education research, UT Austin, research">
+
+    <!-- Basic SEO -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="author" content="Chuu">
+
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <!-- Google Search Console verification -->
+    <meta name="google-site-verification" content="Gj6_3TYPvSEeSfaV2P0Mr9wD_zz1lU6CO8jqLe7uCAk">
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Chuu",
+      "url": "https://chuu-n.github.io",
+      "sameAs": [
+        "https://github.com/chuu-n"
+      ],
+      "jobTitle": "Neuroscience Researcher",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Texas at Austin"
+      },
+      "knowsAbout": [
+        "Cognitive Development",
+        "Educational Neuroscience",
+        "Developmental Psychology",
+        "EEG"
+      ]
+    }
+    </script>
   </head>
 
-  <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-    <!-- Header -->
     {% include header.liquid %}
 
-    <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == 'right' %}
           <div class="row">
-            <!-- main content area -->
             <div class="col-sm-9">{{ content }}</div>
-            <!-- sidebar, which will move to the top on a small screen -->
             <div class="col-sm-3">
               <nav id="toc-sidebar" class="sticky-top"></nav>
             </div>
           </div>
         {% else %}
           <div class="row">
-            <!-- sidebar, which will move to the top on a small screen -->
             <div class="col-sm-3">
               <nav id="toc-sidebar" class="sticky-top"></nav>
             </div>
-            <!-- main content area -->
             <div class="col-sm-9">{{ content }}</div>
           </div>
         {% endif %}
@@ -50,10 +65,7 @@
       {% endif %}
     </div>
 
-    <!-- Footer -->
     {% include footer.liquid %}
-
-    <!-- JavaScripts -->
     {% include scripts.liquid %}
   </body>
 </html>
